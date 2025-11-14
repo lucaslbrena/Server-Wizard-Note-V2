@@ -1,0 +1,11 @@
+# Arquivo .gitignore
+
+# Dependências
+/node_modules
+
+# Arquivo de Chaves Secretas
+.env
+
+# Pasta de uploads temporários
+/uploads
+
